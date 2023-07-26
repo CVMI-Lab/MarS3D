@@ -23,7 +23,7 @@
 
 **CVPR 2023**
 
-<img src="assets/demo.gif" width="100%"/>
+<img src="assets/demo.gif" width="75%"/>
 
 MarS3D is a plug-and-play motion-aware module for semantic segmentation on multi-scan 3D point clouds. Extensive experiments show
 that MarS3D can improve the performance of the baseline model by a large margin.
