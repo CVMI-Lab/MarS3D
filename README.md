@@ -82,7 +82,7 @@ conda install pytorch torchvision torchaudio cudatoolkit -c pytorch -y  # follow
 conda install -c anaconda h5py pyyaml -y
 conda install -c conda-forge sharedarray tensorboardx yapf addict einops scipy plyfile -y
 pip install tqdm
-pip install numpy==1.23 # for fixing version conflict
+pip install numpy==1.23 # for fixing version conflict, should < 1.25
 ```
 
 #### Backbone dependencies
